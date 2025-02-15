@@ -2,4 +2,4 @@ export const API_URL = 'https://forkify-api.jonas.io/api/v2/recipes/';
 export const TIMEOUT_SEC = 10;
 export const RES_PER_PAGE = 10;
 export const KEY = '60265085-9d3f-476c-a503-36eac0d20249';
-export const MODAL_CLOSE_SEC = 2.5;
+export const MODAL_CLOSE_SEC = 2;
